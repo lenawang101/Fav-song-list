@@ -1,0 +1,45 @@
+h1{
+  text-align:center;
+  font-size:500%;
+  font-family:Helvetica;
+}
+
+form{
+  display:flex;
+  justify-content:space-around;
+  margin-bottom: 40px;
+}
+input{
+  width:20%;
+  font-size:175%;
+}
+
+label{
+  font-size:200%;
+}
+
+body{
+  background-image:url("https://wallpapercave.com/wp/AQx74JL.jpg");
+  color:white;
+}
+
+button{
+  padding:7px;
+  font-size:100%;
+  color:black;
+}
+.item{
+  display:flex;
+  justify-content: flex-start;
+
+}
+.checkbox{
+  margin:10px;
+}
+p{
+  font-size:160%;
+  color:white;
+  margin:10px;
+  display:flex;
+  justify-content: flex-start;
+}
